@@ -10,7 +10,7 @@ Repo Tugas RPLBK Kelompok 12 - Mengikuti Tutorial yang ada di situs [codeofaninj
 
 ### 1. Folder Project bernama [api](/api).
 
-Silahkan di clone ke folder htdocs kalian masing-masing.
+Silahkan di clone ke folder htdocs.
 
 ### 2. Database bernama [api_db.sql](/api_db.sql).
 
