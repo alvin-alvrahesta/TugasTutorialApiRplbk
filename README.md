@@ -1,4 +1,4 @@
-# Tugas Tutorial Membuat REST API RPLBK
+# Tugas RPLBK - Membuat REST API
 Repo Tugas RPLBK Kelompok 12 - Mengikuti Tutorial yang ada di situs [codeofaninja.com](https://codeofaninja.com/2017/02/create-simple-rest-api-in-php.html)
 
 ### Kelompok 12 :
