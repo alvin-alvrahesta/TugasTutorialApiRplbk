@@ -8,7 +8,7 @@ Repo Tugas RPLBK Kelompok 12 - Mengikuti Tutorial yang ada di situs [codeofaninj
 4.	21120118130082 - Yisrel Indrawan	
 5.	21120118130091 - Indira Ananda Putra Utama 
 
-### 1. Folder Project bernama ["api"](/api).
+### 1. Folder Project bernama [api](/api).
 
 Silahkan di clone ke folder htdocs kalian masing-masing.
 
@@ -16,4 +16,4 @@ Silahkan di clone ke folder htdocs kalian masing-masing.
 
 Silahkan di import ke mySQL
 
-### 3. Hasil screenshot ada di Folder ["Hasil Screenshot Tugas RPLBK"](https://github.com/alvin-alvrahesta/TugasTutorialApiRplbk/tree/main/Screenshot%20Hasil%20Tugas%20RPLBK).
+### 3. Hasil screenshot ada di Folder [Hasil Screenshot Tugas RPLBK](https://github.com/alvin-alvrahesta/TugasTutorialApiRplbk/tree/main/Screenshot%20Hasil%20Tugas%20RPLBK).
