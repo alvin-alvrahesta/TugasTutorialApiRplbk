@@ -12,6 +12,10 @@ Repo Tugas RPLBK Kelompok 12 - Mengikuti Tutorial yang ada di situs [codeofaninj
 
 Silahkan di clone ke folder htdocs kalian masing-masing.
 
-### 2. Hasil screenshot ada di Folder "Hasil Screenshot Tugas RPLBK"
+### 2. Database bernama api_db.sql.
+
+Silahkan di import ke mySQL
+
+### 3. Hasil screenshot ada di Folder "Hasil Screenshot Tugas RPLBK".
 
 atau langsung klik [Link Screenshot](https://github.com/alvin-alvrahesta/TugasTutorialApiRplbk/tree/main/Screenshot%20Hasil%20Tugas%20RPLBK)
