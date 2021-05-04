@@ -18,4 +18,4 @@ Silahkan di import ke mySQL
 
 ### 3. Hasil screenshot ada di Folder [Hasil Screenshot Tugas RPLBK](https://github.com/alvin-alvrahesta/TugasTutorialApiRplbk/tree/main/Screenshot%20Hasil%20Tugas%20RPLBK).
 
-Atau download versi laporan .PDF [Tugas 2 RPLBK - Kelompok 12.pdf](/Tugas 2 RPLBK - Kelompok 12.pdf)
+Atau download versi laporan .PDF [Tugas 2 RPLBK - Kelompok 12.pdf](/Tugas%202%20RPLBK%20-%20Kelompok%2012.pdf)
